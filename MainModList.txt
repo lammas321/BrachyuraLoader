@@ -6,6 +6,7 @@ shouldn't parse
 
 #test | lol
 lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameCustomGameModes
 
 
 lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
