@@ -1,2 +1,44 @@
 lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
 lammas321/CrabGameModList | ModList.dll
+
+#test
+shouldn't parse
+
+#test | lol
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+
+
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+
+
+
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
+lammas321/CrabGameFloatingPlayerPatch | FloatingPlayerPatch.dll
