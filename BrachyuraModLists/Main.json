@@ -4,5 +4,11 @@
     "asset": "FloatingPlayerPatch.dll",
   	"version": "latest",
   	"dependencies": []
+  },
+  {
+  	"repo": "lammas321/CrabGameModList",
+    "asset": "ModList.dll",
+  	"version": "latest",
+  	"dependencies": []
   }
 ]
