@@ -37,14 +37,14 @@
     	"version": "v1.0.0",
     	"dependencies": []
     },
-    "lammas321/LobbyPlus": {
+    "lammas321/CrabGameLobbyPlus": {
       "asset": "LobbyPlus.dll",
     	"version": "v1.0.0",
     	"dependencies": [
         "lammas321/CrabGameChatCommands"
       ]
     },
-    "lammas321/Overseer": {
+    "lammas321/CrabGameOverseer": {
       "asset": "Overseer.dll",
     	"version": "v1.0.0",
     	"dependencies": [
