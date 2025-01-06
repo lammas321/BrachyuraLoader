@@ -1,0 +1,79 @@
+{
+  "name": "o7Moon",
+  "game": {
+    "name": "Crab Game",
+    "appid": 1782210
+  },
+  "mods": {
+    "o7Moon/CrabGame.MapMod": {
+      "asset": "MapMod.dll",
+    	"version": "v0.7.8",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.PracticePlus": {
+      "asset": "practicePlus.dll",
+    	"version": "v1.2",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.DebugMenu": {
+      "asset": "DebugMenu.dll",
+    	"version": "1.0",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.CustomCrosshair": {
+      "asset": "CustomCrosshair.dll",
+    	"version": "v1.1",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.MoonwalkIndicator": {
+      "asset": "MoonwalkIndicator.dll",
+    	"version": "v1.1",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.MutePlus": {
+      "asset": "MutePlus.dll",
+    	"version": "v1.1",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.PublicPractice": {
+      "asset": "publicPractice.dll",
+    	"version": "v1.0",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.AntiAntiBepinex": {
+      "asset": "AntiAntiBepinex.dll",
+    	"version": "1.0",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.HostUtils": {
+      "asset": "hostutils.dll",
+    	"version": "1.0.1",
+    	"dependencies": []
+    },
+    "o7Moon/qol-core": {
+      "asset": "qol-core.dll",
+    	"version": "1.0.6",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.Deathmatch": {
+      "asset": "Deathmatch.dll",
+    	"version": "v1.1.0",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.Obtainable": {
+      "asset": "obtainable.dll",
+    	"version": "1.0",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.QuickChat": {
+      "asset": "quickchat.dll",
+    	"version": "v1.0",
+    	"dependencies": []
+    },
+    "o7Moon/CrabGame.ServersideFilter": {
+      "asset": "serversidefilter.dll",
+    	"version": "1.0",
+    	"dependencies": []
+    }
+  }
+}
