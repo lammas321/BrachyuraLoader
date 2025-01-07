@@ -39,7 +39,7 @@
     },
     "lammas321/CrabGameLobbyPlus": {
       "asset": "LobbyPlus.dll",
-    	"version": "v1.0.0",
+    	"version": "v1.0.1",
     	"dependencies": [
         "lammas321/CrabGameChatCommands"
       ]
