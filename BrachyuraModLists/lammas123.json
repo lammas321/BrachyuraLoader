@@ -28,8 +28,10 @@
       "assets": {
         "ChatCommands.dll": {}
       },
-      "optional": {
-        "lammas321/CrabGamePermissionGroups": {}
+      "dependencies": {
+        "lammas321/CrabGamePermissionGroups": {
+          "required": false
+        }
       }
     },
     "lammas321/CrabGameGameMaster": {
