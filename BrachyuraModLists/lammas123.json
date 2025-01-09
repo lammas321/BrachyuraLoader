@@ -1,99 +1,132 @@
 {
-  "name": "lammas123",
+  "name": "lammas123's Mods",
   "game": {
     "name": "Crab Game",
     "appid": 1782210
   },
   "mods": {
     "lammas321/CrabGameFloatingPlayerPatch": {
-      "asset": "FloatingPlayerPatch.dll",
     	"version": "v1.2.0",
-    	"dependencies": []
+      "assets": {
+        "FloatingPlayerPatch.dll": {}
+      }
     },
     "lammas321/CrabGameModList": {
-      "asset": "ModList.dll",
     	"version": "v1.1.0",
-    	"dependencies": []
+      "assets": {
+        "ModList.dll": {}
+      }
     },
     "lammas321/CrabGameMoreSettings": {
-      "asset": "MoreSettings.dll",
     	"version": "v1.0.1",
-    	"dependencies": []
+      "assets": {
+        "MoreSettings.dll": {}
+      }
     },
     "lammas321/CrabGameChatCommands": {
-      "asset": "ChatCommands.dll",
     	"version": "v1.0.0",
-    	"dependencies": []
+      "assets": {
+        "ChatCommands.dll": {}
+      },
+      "optional": {
+        "lammas321/CrabGamePermissionGroups": {}
+      }
     },
     "lammas321/CrabGameGameMaster": {
-      "asset": "GameMaster.dll",
     	"version": "v1.0.0",
-    	"dependencies": [
-        "lammas321/CrabGameChatCommands"
-      ]
+      "assets": {
+        "GameMaster.dll": {}
+      },
+    	"dependencies": {
+        "lammas321/CrabGameChatCommands": {}
+      }
     },
     "lammas321/CrabGameRightToBearArms": {
-      "asset": "RightToBearArms.dll",
     	"version": "v1.0.0",
-    	"dependencies": []
+      "assets": {
+        "RightToBearArms.dll": {}
+      },
+      "dependencies": {
+        "lammas321/CrabGameChatCommands": {
+          "required": false
+        }
+      }
     },
     "lammas321/CrabGameLobbyPlus": {
-      "asset": "LobbyPlus.dll",
     	"version": "v1.0.1",
-    	"dependencies": [
-        "lammas321/CrabGameChatCommands"
-      ]
-    },
-    "lammas321/CrabGameOverseer": {
-      "asset": "Overseer.dll",
-    	"version": "v1.0.0",
-    	"dependencies": [
-        "lammas321/CrabGameChatCommands",
-        "lammas321/CrabGamePersistentData"
-      ]
-    },
-    "lammas321/CrabGameCustomGameModes": {
-      "asset": "CustomGameModes.dll",
-    	"version": "v1.0.0",
-    	"dependencies": []
-    },
-    "lammas321/CrabGameSequencedDropGameMode": {
-      "asset": "SequencedDropGameMode.dll",
-    	"version": "v1.0.0",
-    	"dependencies": [
-        "lammas321/CrabGameCustomGameModes"
-      ]
-    },
-    "lammas321/CrabGameTantanPrimeGameMode": {
-      "asset": "TantanPrimeGameMode.dll",
-    	"version": "v1.0.0",
-    	"dependencies": [
-        "lammas321/CrabGameCustomGameModes"
-      ]
-    },
-    "lammas321/CrabGameUnstableRocksGameMode": {
-      "asset": "UnstableRocksGameMode.dll",
-    	"version": "v1.0.0",
-    	"dependencies": [
-        "lammas321/CrabGameCustomGameModes"
-      ]
+      "assets": {
+        "LobbyPlus.dll": {}
+      },
+    	"dependencies": {
+        "lammas321/CrabGameChatCommands": {}
+      }
     },
     "lammas321/CrabGameBetterChat": {
-      "asset": "BetterChat.dll",
     	"version": "v1.0.0",
-    	"dependencies": []
+      "assets": {
+        "BetterChat.dll": {}
+      }
+    },
+    "lammas321/CrabGameOverseer": {
+    	"version": "v1.0.0",
+      "assets": {
+        "Overseer.dll": {}
+      },
+    	"dependencies": {
+        "lammas321/CrabGameChatCommands": {},
+        "lammas321/CrabGamePersistentData": {}
+      }
+    },
+    "lammas321/CrabGameCustomGameModes": {
+    	"version": "v1.0.0",
+      "assets": {
+        "CustomGameModes.dll": {}
+      }
+    },
+    "lammas321/CrabGameSequencedDropGameMode": {
+    	"version": "v1.0.0",
+      "assets": {
+        "SequencedDropGameMode.dll": {},
+        "SequencedDropSequences.zip": {
+          "type": "resource"
+        }
+      },
+    	"dependencies": {
+        "lammas321/CrabGameCustomGameModes": {}
+      }
+    },
+    "lammas321/CrabGameTantanPrimeGameMode": {
+    	"version": "v1.0.0",
+      "assets": {
+        "TantanPrimeGameMode.dll": {}
+      },
+    	"dependencies": {
+        "lammas321/CrabGameCustomGameModes": {}
+      }
+    },
+    "lammas321/CrabGameUnstableRocksGameMode": {
+    	"version": "v1.0.0",
+      "assets": {
+        "UnstableRocksGameMode.dll": {}
+      },
+    	"dependencies": {
+        "lammas321/CrabGameCustomGameModes": {}
+      }
     },
     "lammas321/CrabGamePermissionGroups": {
-      "asset": "PermissionGroups.dll",
     	"version": "v1.0.0",
-    	"dependencies": [
-        "lammas321/CrabGamePersistentData"
-      ]
+      "assets": {
+        "PermissionGroups.dll": {}
+      },
+    	"dependencies": {
+        "lammas321/CrabGamePersistentData": {}
+      }
     },
     "lammas321/CrabGamePersistentData": {
-      "asset": "PersistentData.dll",
     	"version": "v1.0.0",
-    	"dependencies": []
+      "assets": {
+        "PersistentData.dll": {}
+      }
     }
   }
 }
